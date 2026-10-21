@@ -32,4 +32,4 @@ Our game does not knowingly collect personal identifiable information from child
 
 ## 6. Contact Us
 If you have any questions or requests regarding this Privacy Policy, please contact us at:
-**Email:** mb.morefun@gmail.com
+**Email:** support.morefun@gmail.com
