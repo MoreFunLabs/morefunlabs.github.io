@@ -1,8 +1,8 @@
-# Privacy Policy for TapUp
+# Privacy Policy for Tapwheel
 
-**Effective Date:** October 20, 2026
+**Effective Date:** October 28, 2026
 
-**MoreFun** ("we", "our", or "us") built the **TapUp** mobile game as a commercial/ad-supported application. This page informs users regarding our policies with the collection, use, and disclosure of personal data when using our game.
+**MoreFun (MoreFun Labs** ("we", "our", or "us") built the **Tapwheel** mobile game as a commercial/ad-supported application. This page informs users regarding our policies with the collection, use, and disclosure of personal data when using our game.
 
 ## 1. Information Collection and Use
 We do not directly collect or store personally identifiable information on our own servers. However, the game integrates third-party Software Development Kits (SDKs) for advertising and in-app purchases that may collect certain device and usage data automatically, including:
@@ -11,15 +11,13 @@ We do not directly collect or store personally identifiable information on our o
 * App interaction, crash logs, and diagnostic performance data
 * Purchase history for virtual goods (processed securely by Google Play or Apple App Store)
 
-## 2. Third-Party Advertising & Mediation (CAS.ai)
-We use **CAS.ai (Clever Ads Solutions)** and its mediated advertising partners to display ads inside the game. In the European Economic Area (EEA), the UK, and Switzerland, we ask for your explicit consent via Google's User Messaging Platform (UMP) before showing personalized ads. You can change or withdraw your consent at any time inside the game's **Settings -> Privacy Settings** menu.
+## 2. Third-Party Advertising & Mediation
+We use **Google AdMob** (with **Unity Ads** mediation) to display ads inside the game. In the European Economic Area (EEA), the UK, and Switzerland, we ask for your explicit consent via Google's User Messaging Platform (UMP) before showing personalized ads. You can change or withdraw your consent at any time inside the game's **Settings -> Privacy Settings** menu.
 
 Links to the privacy policies of third-party service providers used by the app:
 * [Google Play Services & AdMob](https://policies.google.com/privacy)
 * [Apple App Store Privacy](https://www.apple.com/legal/privacy/)
-* [CAS.ai (Clever Ads Solutions)](https://cas.ai/privacy-policy/)
 * [Unity Ads](https://unity.com/legal/privacy-policy)
-* [AppLovin](https://www.applovin.com/privacy/)
 
 ## 3. In-App Purchases
 All financial transactions for in-app purchases are handled directly by Google Play Billing or Apple StoreKit. We never receive, process, or store your credit card, bank account, or billing details.
