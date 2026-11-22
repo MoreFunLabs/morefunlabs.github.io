@@ -7,15 +7,12 @@ Everything marked [CHECK] needs your decision or a fact only you know. Remove th
 
 # Terms of Service for Tapwheel
 
-**Effective date:** [CHECK: date of publishing]
-**Last updated:** [CHECK: same date]
+**Effective date:** 24.11.2026
+**Last updated:** 24.11.2026
 
-These terms are an agreement between you and MoreFun Labs ("we", "us") about the mobile game
+These terms are an agreement between you and MoreFun (MoreFun Labs ("we", "us") about the mobile game
 Tapwheel ("the game"). By installing or playing the game you accept them. If you do not accept
 them, please do not use the game.
-
-[CHECK: "MoreFun Labs" is the name on the privacy policy. If you publish as a person or a
-registered business, the legal name belongs here.]
 
 ## 1. Using the game
 
